@@ -1,10 +1,11 @@
 # Task-Manager
  
-#Overview
+ # Overview
+
 The TaskManager project is a web-based application designed to manage tasks effectively. This application is built using Java with Spring framework and Maven for dependency management. It includes CRUD (Create, Read, Update, Delete) operations for managing products (tasks).
 
  
-#Key Files and Directories
+ # Key Files and Directories
 pom.xml: Maven configuration file that manages project dependencies.
 src/main/java/productcrudapp:
 controller/MainController.java: Handles HTTP requests and responses.
